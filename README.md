@@ -5,4 +5,4 @@ Team: [LazarevaL](https://github.com/LazarevaL), [KozlArt](https://github.com/Ko
 Results short description
 | Task                       |Type | Metric        | Value (public/private) | Place |
 | -------------              |:---: |:-------------:|:-----:|:-----:|
-| Vehicle Color Determination| CV  | f1 macro      |  0.9896 / 0.9896   | 3   |
+| Vehicle Color Recognition| CV  | f1 macro      |  0.9896 / 0.9896   | 3   |
